@@ -1,13 +1,13 @@
 ## Project-Xiaomi-Yuechu-dev - Personal extras
-<img align="right" width="180" height="180" src="https://github.com/Project-Xiaomi-Yuechu-dev/.github/blob/main/profile/RedmiNote12TPro.png">
+<img align="right" width="180" height="180" src="https://github.com/Project-Xiaomi-Yuechu-dev/.github/blob/main/profile/XiaomiCivi3.png">
 
 This organization contains repositories to build AOSP ROMs for Xiaomi Civi 3 (yuechu) with personal additions and modifications over [xiaomi-mediatek-devs](https://github.com/xiaomi-mediatek-devs) and [XagaForge](https://github.com/XagaForge) trees.
 
 ### Repositories
-# * [**Device Tree (yuechu)**]
-# * [**Kernel Tree**]
-# * [**Vendor Tree (yuechu)**]
-# * [**MIUI Camera (yuechu)**]
+* [**Device Tree (yuechu)**]
+* [**Kernel Tree**]
+* [**Vendor Tree (yuechu)**]
+* [**MIUI Camera (yuechu)**]
 
 Repositories such as `android_hardware_mediatek`, `android_hardware_xiaomi` and `android_device_mediatek_sepolicy_vndr` remain unmodified and can be used directly from the  [XagaForge](https://github.com/XagaForge) or [xiaomi-mediatek-devs](https://github.com/xiaomi-mediatek-devs) organization.
 
