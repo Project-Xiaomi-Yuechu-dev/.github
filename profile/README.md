@@ -4,7 +4,7 @@
 This organization contains repositories to build AOSP ROMs for Xiaomi Civi 3 (yuechu) with personal additions and modifications over [xiaomi-mediatek-devs](https://github.com/xiaomi-mediatek-devs) and [XagaForge](https://github.com/XagaForge) trees.
 
 ### Repositories
-* [**Device Tree (yuechu)**]
+* [**Device Tree (yuechu)**](https://github.com/Project-Xiaomi-Yuechu-dev/android_device_xiaomi_yuechu.git) (`android_device_xiaomi_yuechu`)
 * [**Kernel Tree**]
 * [**Vendor Tree (yuechu)**]
 * [**MIUI Camera (yuechu)**]
