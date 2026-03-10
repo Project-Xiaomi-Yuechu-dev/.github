@@ -5,7 +5,7 @@ This organization contains repositories to build AOSP ROMs for Xiaomi Civi 3 (yu
 
 ### Repositories
 * [**Device Tree (yuechu)**](https://github.com/Project-Xiaomi-Yuechu-dev/android_device_xiaomi_yuechu.git) (`android_device_xiaomi_yuechu`)
-* [**Kernel Tree**]
+* [**Kernel Tree**](https://github.com/Project-Xiaomi-Yuechu-dev/android_kernel_xiaomi_mt6895) (`android_device_xiaomi_yuechu`)
 * [**Vendor Tree (yuechu)**]
 * [**MIUI Camera (yuechu)**]
 
